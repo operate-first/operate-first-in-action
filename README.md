@@ -44,7 +44,19 @@ The goal of this project is to demonstrate the development, training and deploym
  # What Now?
 
  ## Join the Community!
-
+ ### Why should I join?
+ Get free online processing power.
+ Become an experienced contributor.
+ Learn & Use GitOps.
+ Work with OpenShift.
+ Grow your Resume.
+ 
+ ### What Do I need?
+ Bring your Interest!
+ Bring your Problems to solve!
+ Bring your Own Notebook ;-)
+ 
+ ### How can I join?
  * [GitHub](https://github.com/operate-first)
  * [Slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww)
  * [Website](https://www.operate-first.cloud/)

@@ -28,8 +28,11 @@ https://github.com/AICoE/meteor#project-meteor
 
 ## Bring Your Own Notebook (BYON)
 
-https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group
+The Bring Your Own Notebook service introduces a functionality that allows admins and users bring their own notebook images and easily spin up reproducible notebook environments that can be shared with others.
 
+By using the URL to your notebook image, you can easily spawn up a Jupyterhub environment suitable to run that notebook which allows others to reproduce your experiments with a click of a button.
+
+Through a [working group](https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group) which implements the BYON feature on the open [Operate First cloud](https://www.operate-first.cloud/), the goal is to introduce this to the [Open Data Hub](https://opendatahub.io/) project and ultimately introduce this as a feature into [Red Hat OpenShift Data Science](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-data-science).
 
 ## AI at the Edge Demo
 

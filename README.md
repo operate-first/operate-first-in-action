@@ -57,7 +57,7 @@ The goal of this project is to demonstrate the development, training and deploym
  Bring your Own Notebook ;-)
  
  ### How can I join?
- * [Chck out the GitHub repo](https://github.com/operate-first)
+ * [Check out the GitHub repo](https://github.com/operate-first)
  * [Discuss on Slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww)
  * [Visit our Website](https://www.operate-first.cloud/)
  * [Sign up for the mailing list](https://lists.operate-first.cloud/admin/lists/community.lists.operate-first.cloud/)

@@ -23,8 +23,17 @@ Go to the [Operate First](https://www.operate-first.cloud/) project page to lear
 
 ## Project Meteor
 
+[![meteor](assets/images/meteor.png)](https://github.com/AICoE/meteor#project-meteor)
 
-https://github.com/AICoE/meteor#project-meteor 
+Project Meteor automates creation of interactive environments alongside publication-quality static content for data-science oriented repositories.
+
+It works as an integrated, single tool allowing users to explore and test drive services, tools, and emerging technologies for developing intelligent applications.
+
+It leverages knowledge obtained by members of the Red Hat's Artificial Intelligence Center of Excellence (AICoE) when developing and presenting their analysis on various topic. This knowledge is encoded into Tekton pipelines which are ready to be used in a public environment of Operate First Cloud. It allows users to bring their analysis stored in git repository into a [Open Data Hub](https://opendatahub.io/) environment, ready to be worked on as well as presented to their peers and stakeholders as a JupyterBook website deployment.
+
+Learn more at https://github.com/AICoE/meteor#project-meteor or give it a try right now https://shower.meteor.zone/
+
+Project meteor is packaged as an [Operator Framework](https://operatorframework.io/) operator, ready to be deployed to any OLM compatible cluster.
 
 ## Bring Your Own Notebook (BYON)
 

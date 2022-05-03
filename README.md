@@ -2,8 +2,8 @@
 
 Click on the pic below! and watch our video from Red Hat Summit 2022 and see Operate First in Action! _Note: this is WIP and image links to different video._
 
-[![video thumbnail](assets/images/opf-in-action-thumbnail.png)](https://youtu.be/v4mur-_ywBM)
-https://youtu.be/v4mur-_ywBM (_This is a place holder until video release_)
+[![video thumbnail](assets/images/opf-in-action-thumbnail.png)](https://youtu.be/sfjAr5EI2ww)
+https://youtu.be/sfjAr5EI2ww
 
 
 ## What is Operate First? 

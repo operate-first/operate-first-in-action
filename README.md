@@ -8,18 +8,20 @@ https://youtu.be/v4mur-_ywBM (_This is a place holder until video release_)
 
 ## What is Operate First? 
 
-While open source has made software widely available, it has also exposed another barrier to entry: the ability to operate software in production. Proprietary services for operations undermine the open source model, so we must now shift our focus to open sourcing operations.
+Open source has become the defining way of developing software. But how do we apply the principles of Open Source to operations and data? Operate First is a concept to incorporate operational experience into software projects.
 
-In doing so, developers and operators collaborate to apply a project’s operational considerations right back into the code. The result?
-
-**Better code, better performance, better final product.**
+Users, developers and operators collaborate on long running projects, services and tooling to explore the future of Open Source in the age of scale. They do so in a community supported open cloud environment, the **Operate First Community Cloud**
 
 [![operate-first-logo](assets/images/opf-logo.png)](https://www.operate-first.cloud/)
 
-Go to the [Operate First](https://www.operate-first.cloud/) project page to learn about this initiative in detail and how you can get involved with the Operate First community! 
+Go to the [Operate First](https://www.operate-first.cloud/) website to learn about this community in detail and how you can get involved!
 
 
 # Some Operate First Projects in  Action!
+
+Follow the journey of a data scientist, who wants to share their experiments in a cloud environment. Using the services provided by the Operate First Community Cloud, they built a solution - not in isolation - but with re-usability in mind and early user exposure.  That solution evolved into a  feature, which contributed to [OpenDataHub.io](http://opendatahub.io), and was finally used as a key component for a complex and cross-product demonstration, to be revealed during a session at Red Hat Summit.
+
+Now you can relive that story. Follow along below - or skip right to the [action](#action)
 
 ## Project Meteor
 
@@ -54,6 +56,12 @@ The goal of this project is to demonstrate the development, training and deploym
  [![operate-first-logo](assets/images/car-sim.png)](https://github.com/AICoE/summit-2022-octo-keynote#summit-2021-octo-keynote)
 
  # What Now?
+
+ ## Action
+
+ * Add the Edge Demo to Meteor //TODO add a link?
+ * Launch the notebook in the BYON environment  //TODO add a link?
+ * Experiment with the notebooks //TODO add a link?
 
  ## Join the Community!
  ### Why should I join?

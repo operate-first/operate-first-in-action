@@ -45,6 +45,10 @@ By using the URL to your notebook image, you can easily spawn up a Jupyterhub en
 
 Through a [working group](https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group) which implements the BYON feature on the open [Operate First cloud](https://www.operate-first.cloud/), the goal is to introduce this to the [Open Data Hub](https://opendatahub.io/) project and ultimately introduce this as a feature into [Red Hat OpenShift Data Science](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-data-science).
 
+[![byon](assets/images/byon.png)](https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group)
+
+You can bring your notebook and give it a try right now at https://odh-dashboard-opf-jupyterhub-stage.apps.odh-cl1.apps.os-climate.org/.
+
 ## ML @ the Edge
 
 Check out the Emerging technologies integration demo for ML at the edge [here!](https://github.com/AICoE/integration-demo-summit-2022)  

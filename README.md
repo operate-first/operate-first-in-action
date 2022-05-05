@@ -1,6 +1,6 @@
 # Operate First in Action! 
 
-Click on the pic below! and watch our video from Red Hat Summit 2022 and see Operate First in Action! _Note: this is WIP and image links to different video._
+Click on the picture below! and watch our video from Red Hat Summit 2022 to see Operate First in Action!
 
 [![video thumbnail](assets/images/opf-in-action-thumbnail.png)](https://youtu.be/sfjAr5EI2ww)
 https://youtu.be/sfjAr5EI2ww
@@ -17,7 +17,7 @@ Users, developers and operators collaborate on long running projects, services a
 Go to the [Operate First](https://www.operate-first.cloud/) website to learn about this community in detail and how you can get involved!
 
 
-# Some Operate First Projects in  Action!
+# Some Operate First Projects in Action!
 
 Follow the journey of a data scientist, who wants to share their experiments in a cloud environment. Using the services provided by the Operate First Community Cloud, they built a solution - not in isolation - but with re-usability in mind and early user exposure.  That solution evolved into a  feature, which contributed to [OpenDataHub.io](http://opendatahub.io), and was finally used as a key component for a complex and cross-product demonstration, to be revealed during a session at Red Hat Summit.
 
@@ -31,7 +31,7 @@ Project Meteor automates creation of interactive environments alongside publicat
 
 It works as an integrated, single tool allowing users to explore and test drive services, tools, and emerging technologies for developing intelligent applications.
 
-It leverages knowledge obtained by members of the Red Hat's Artificial Intelligence Center of Excellence (AICoE) when developing and presenting their analysis on various topic. This knowledge is encoded into Tekton pipelines which are ready to be used in a public environment of Operate First Cloud. It allows users to bring their analysis stored in git repository into a [Open Data Hub](https://opendatahub.io/) environment, ready to be worked on as well as presented to their peers and stakeholders as a JupyterBook website deployment.
+It leverages knowledge obtained by members of Red Hat's Artificial Intelligence Center of Excellence (AICoE) when developing and presenting their analysis on various topic. This knowledge is encoded into Tekton pipelines which are ready to be used in a public environment of Operate First Cloud. It allows users to bring their analysis stored in git repository into a [Open Data Hub](https://opendatahub.io/) environment, ready to be worked on as well as presented to their peers and stakeholders as a JupyterBook website deployment.
 
 Learn more at https://github.com/AICoE/meteor#project-meteor or give it a try right now https://shower.meteor.zone/
 
@@ -39,17 +39,17 @@ Project meteor is packaged as an [Operator Framework](https://operatorframework.
 
 ## Bring Your Own Notebook (BYON)
 
-The Bring Your Own Notebook service introduces a functionality that allows admins and users bring their own notebook images and easily spin up reproducible notebook environments that can be shared with others.
+The Bring Your Own Notebook service introduces a functionality that allows admins and users to bring their own notebook images and easily spin up reproducible notebook environments that can be shared with others.
 
 By using the URL to your notebook image, you can easily spawn up a Jupyterhub environment suitable to run that notebook which allows others to reproduce your experiments with a click of a button.
 
 Through a [working group](https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group) which implements the BYON feature on the open [Operate First cloud](https://www.operate-first.cloud/), the goal is to introduce this to the [Open Data Hub](https://opendatahub.io/) project and ultimately introduce this as a feature into [Red Hat OpenShift Data Science](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-data-science).
 
-## AI at the Edge Demo
+## ML @ the Edge
 
-Check out the full demo [HERE!](https://github.com/AICoE/summit-2022-octo-keynote#summit-2021-octo-keynote)  
+Check out the Emerging technologies integration demo for ML at the edge [here!](https://github.com/AICoE/integration-demo-summit-2022)  
 
-In this demo we will walk you through how to manage a machine learning application lifecycle on an edge device using a couple of projects developed by Red Hat's Emerging Technologies group. Specifically, Open Data Hub, Microshift and Meteor running on the Operate First Community cloud.
+In this demo we walk through how to manage a machine learning application's lifecycle on an edge device using a couple of projects developed by Red Hat's Emerging Technologies group. Specifically, Open Data Hub, Microshift and Meteor running on the Operate First Community cloud.
 
 The goal of this project is to demonstrate the development, training and deployment of a real intelligent edge device, an autonomous RV car, via the [Operate First community cloud](https://www.operate-first.cloud/).
  
@@ -59,9 +59,20 @@ The goal of this project is to demonstrate the development, training and deploym
 
  ## Action
 
- * Add the Edge Demo to Meteor //TODO add a link?
- * Launch the notebook in the BYON environment  //TODO add a link?
- * Experiment with the notebooks //TODO add a link?
+ Want to try this out for yourself?
+
+* Go to https://shower.meteor.zone/ and paste `https://github.com/AICoE/integration-demo-summit-2022` into the meteor field.
+
+[![meteor](assets/images/meteor.png)](https://github.com/AICoE/meteor#project-meteor)
+
+
+* Once the notebook image is built, you will be able to select the `Open as JupyterHub` option to access the [Operate First JupyterHub Spawner](https://jupyterhub-opf-jupyterhub.apps.smaug.na.operate-first.cloud/) page and select the notebook image associated with your meteor.  
+
+[![meteor](assets/images/jupyterhub-spawner.png)](https://github.com/AICoE/meteor#project-meteor)
+
+* After the notebook environment loads, you are ready to start experimenting! 
+
+[![meteor](assets/images/jupyter-notebook.png)](https://github.com/AICoE/meteor#project-meteor)
 
  ## Join the Community!
  ### Why should I join?

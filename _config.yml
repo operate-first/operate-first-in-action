@@ -22,7 +22,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  google_analytics_id: "G-0Z17P7NR0X"  # A GA id that can be used to track book views.
+  google_analytics_id: "UA-228140870-1"  # A GA id that can be used to track book views.
 
 # Launch button settings
 launch_buttons:

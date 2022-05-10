@@ -47,7 +47,9 @@ Through a [working group](https://github.com/open-services-group/byon#bring-your
 
 [![byon](assets/images/byon.png)](https://github.com/open-services-group/byon#bring-your-own-notebook-byon-working-group)
 
-You can bring your notebook and give it a try right now at https://odh-dashboard-opf-jupyterhub-stage.apps.odh-cl1.apps.os-climate.org/.
+You can import your notebook and give it a try right now at https://odh-dashboard-opf-jupyterhub-stage.apps.odh-cl1.apps.os-climate.org/ by going to "Settings" and "Notebook Images" and clicking on "Import new image".
+
+To join the operate-first org and access the deployed services, follow the instructions [here](https://github.com/operate-first/common/blob/main/docs/add_gh_member_and_access.md#become-a-github-member) and add yourself by submitting a PR.
 
 ## ML @ the Edge
 
